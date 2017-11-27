@@ -2,21 +2,25 @@
     {
         "float": "left",
         "title": "Soluciones web",
-        "desc" : "Evaluamos tu necesidad y desarrollamos la solución con lo último en tecnologías web, base de datos y todo lo que influye en el ciclo de vida del software de la mano del cliente."
+        "desc" : "Evaluamos tu necesidad y desarrollamos la solución con lo último en tecnologías web, base de datos y todo lo que influye en el ciclo de vida del software de la mano del cliente.",
+        "url": " images/pic01.jpg"    
     },
     {
         "float": "right",
         "title": "Soporte y consultoría",
-        "desc" : "Recibe asesoría e instrucción en general con relación a las Ciencias de la Computación, además de consultoría en proyectos a diversas escalas."
+        "desc" : "Recibe asesoría e instrucción en general con relación a las Ciencias de la Computación, además de consultoría en proyectos a diversas escalas.",
+        "url": " images/pic02.jpg" 
     },
     {
         "float": "left",
         "title": "User experience",
-        "desc" : "Totalmente enfocados en la experiencia de usuario ya que es vital para asegurar el éxito del producto. Este factor debe ser testeado y evaluado, en LiniuxTech lo consideramos el CORE del producto."
+        "desc" : "Totalmente enfocados en la experiencia de usuario ya que es vital para asegurar el éxito del producto. Este factor debe ser testeado y evaluado, en LiniuxTech lo consideramos el CORE del producto.",
+        "url": " images/pic03.jpg" 
     },
     {
         "float": "right",
-        "title": "Marketing Digital",
-        "desc" : "La valoración por parte de nuestros clientes es de suma importancia para nosotros. No olvides contarnos tu experiencia!"
+        "title": "Marketing Digital y Mailing",
+        "desc" : "La valoración por parte de nuestros clientes es de suma importancia para nosotros al igual que para ti. Te ayudaremos a trazar tu camino en el mundo digital mediante mailing u otro medio de comunicacoón digital, DEJATE CONOCER PARA CRECER!",
+        "url": " images/pic04.jpg" 
     }
 ]

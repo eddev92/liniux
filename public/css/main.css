@@ -2432,6 +2432,8 @@
 				min-height: 100%;
 				min-width: 100%;
 				position: absolute;
+				height: auto;
+    			width: 100%;
 			}
 
 		.feature:before {

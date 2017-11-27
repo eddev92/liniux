@@ -26,7 +26,7 @@ export class ServicesComponent extends Component {
       return services.map((item, index) => {
       return (
           <section className={'feature' + ' ' + item.float} key={index}>
-		 				<a href="#" className="image icon fa-signal"><img src="images/pic01.jpg" alt="" /></a>
+		 				<a href="#" className="image icon fa-signal"><img src={item.url} alt="" /></a>
 		 				<div className="content">
 		 					<h3>{item.title}</h3>
 		 					<p>{item.desc}</p>

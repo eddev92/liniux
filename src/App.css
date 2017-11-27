@@ -67,6 +67,7 @@
 .modal-dialog{
   height: auto;
       align-items: center;
+      
 }
 .modal.show{
   display: block;
@@ -75,7 +76,6 @@
     position: fixed;
     z-index: 999999999;
     background-color: black;
-    opacity: .9 !important;
 
 }
 button#close{
@@ -89,10 +89,16 @@ button#close{
   color: black !important;
 }
 .fade.show {
-    opacity: 1;
+    opacity: .95;
 }
 .fade{
       transition: opacity .15s linear;
+}
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 500px;
+    margin: 30px auto;
+}
 }
 .modal.show .modal-dialog {
     -webkit-transform: translate(0,0);
